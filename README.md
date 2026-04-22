@@ -58,8 +58,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=binisha-bhattarai&label=Profile%20views&color=F75C7E&style=flat" alt="binisha-bhattarai" />
-</p>
 
-<p align="center">⭐️ From <a href="https://github.com/binisha-bhattarai">Binisha Bhattarai</a></p>
