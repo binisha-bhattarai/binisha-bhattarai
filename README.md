@@ -48,7 +48,7 @@
 ### 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/binisha-bhattarai" target="_blank">
+  <a href="https://www.linkedin.com/in/binishabhattarai/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:bhattarai.binisha.01@gmail.com">
